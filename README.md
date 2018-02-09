@@ -1,4 +1,4 @@
-# ERC721
+# Non-Fungible-Token ABI (ERC721)
 
 This package provides ABIs for ERC721.
 
