@@ -1,0 +1,24 @@
+{
+  "name": "erc721",
+  "version": "1.0.0",
+  "description": "ABI for ERC721 Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhrmi/erc721.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Token",
+    "ERC721"
+  ],
+  "author": "Stefan Buhrmester <buhrmi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhrmi/erc721/issues"
+  },
+  "homepage": "https://github.com/buhrmi/erc721#readme"
+}
